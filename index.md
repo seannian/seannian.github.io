@@ -13,8 +13,7 @@ Current SJSU student
 
 ## News
 
-- **[Feb. 2020]** test
-- **[Feb. 2020]** Still no news
+- **[Oct. 2024]** Our paper was accepted to INTERACT at ACM/IEEE SEC 2024!
 
 {% include_relative _includes/publications.md %}
 
