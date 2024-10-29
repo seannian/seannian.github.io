@@ -13,7 +13,7 @@ Current SJSU student
 
 ## News
 
-- **[Feb. 2020]** No news for now
+- **[Feb. 2020]** test
 - **[Feb. 2020]** Still no news
 
 {% include_relative _includes/publications.md %}
